@@ -10,7 +10,8 @@
 #### Próba badawcza: odtworzenie nagrania audio
 ### Obserwacje i wyniki:
      Wśród osób badanych zostały zaobserwowane rozbieżności w wynikach.
-     Jednakże została zaobserwowana prawidłowość, w której wszystkie osoby badany przestały słyszeć odtwarzany dźwięk przy częstotliwości ~18 kHz. 
+     Jednakże została zaobserwowana prawidłowość, w której wszystkie osoby badane
+     przestały słyszeć odtwarzany dźwięk przy częstotliwości ~18 kHz. 
 ### Szczegółowe dane wyciągnięte z przeprowadzonego badania:
 > Badana grupa była wyjątkowo mała przez co wyniki różnią się diametralnie
 
