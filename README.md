@@ -21,3 +21,5 @@
 | 80<             	| Poczucie niepokoju 	|   	| 120~            	| Lekki dyskomfort         	|   	| N/A             	| N/A               	|   	|
 | 500<            	| Lekki ból uszu     	|   	| 2500~           	| Delikatne ukłucie w uchu 	|   	| N/A             	| N/A               	|   	|
 | 18 000<         	| Próg słyszalności  	|   	| 18 000<         	| Próg słyszalności        	|   	| 18 000<         	| Próg słyszalności 	|   	|
+
+------
