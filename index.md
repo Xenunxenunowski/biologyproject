@@ -1,5 +1,7 @@
 # Reakcja organizmu na informacje odbierane przez błędnik oraz na różne częstotliwości dźwięku
 -----
+
+
 ## Reakcje organizmu na różne czstotliwości dzwięku
 ### Problem badawczy: ```Jak różne częstotliwości dźwięku wpływają na organizm człowieka?```
 #### Hipoteza: ```Różne częstotliwości dźwięku mają inny wpływ na różne osoby.```
@@ -21,3 +23,6 @@
 | 80<             	| Poczucie niepokoju 	|   	| 120~            	| Lekki dyskomfort         	|   	| N/A             	| N/A               	|   	|
 | 500<            	| Lekki ból uszu     	|   	| 2500~           	| Delikatne ukłucie w uchu 	|   	| N/A             	| N/A               	|   	|
 | 18 000<         	| Próg słyszalności  	|   	| 18 000<         	| Próg słyszalności        	|   	| 18 000<         	| Próg słyszalności 	|   	|
+
+
+-----
