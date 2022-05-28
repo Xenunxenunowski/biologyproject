@@ -1,4 +1,4 @@
-# Reakcja organizmu na informacje odbierane przez błędnik oraz na różne częstotliwości dźwięku
+Reakcja organizmu na informacje odbierane przez błędnik oraz na różne częstotliwości dźwięku
 -----
 # Reakcje organizmu na różne czstotliwości dzwięku
 ### Problem badawczy: ```Jak różne częstotliwości dźwięku wpływają na organizm człowieka?```
