@@ -1,8 +1,8 @@
 # Reakcja organizmu na informacje odbierane przez błędnik oraz na różne częstotliwości dźwięku
 -----
 # Reakcje organizmu na różne czstotliwości dzwięku
-### Problem badawczy: ```Jak różne częstotliwości dźwięku wpływają na organizm człowieka?```
-### Hipoteza: ```Różne częstotliwości dźwięku mają inny wpływ na różne osoby.```
+### Problem badawczy: Jak różne częstotliwości dźwięku wpływają na organizm człowieka?
+### Hipoteza: Różne częstotliwości dźwięku mają inny wpływ na różne osoby.
 ### Opis doświadczenia:
 Doświadczenie polega na sprawdzeniu reakcji organizmu na rosnące częstotliwości dźwięku.
 W tym celu użyliśmy [nagrania audio](https://youtu.be/qNf9nzvnd1k) z zakresem częstotliwości 20-20 000 Hz.
