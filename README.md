@@ -1,8 +1,8 @@
 # Reakcja organizmu na informacje odbierane przez błędnik oraz na różne częstotliwości dźwięku
 -----
-## Reakcje organizmu na różne czstotliwości dzwięku
+# Reakcje organizmu na różne czstotliwości dzwięku
 ### Problem badawczy: ```Jak różne częstotliwości dźwięku wpływają na organizm człowieka?```
-#### Hipoteza: ```Różne częstotliwości dźwięku mają inny wpływ na różne osoby.```
+### Hipoteza: ```Różne częstotliwości dźwięku mają inny wpływ na różne osoby.```
 ### Opis doświadczenia:
 Doświadczenie polega na sprawdzeniu reakcji organizmu na rosnące częstotliwości dźwięku.
 W tym celu użyliśmy [nagrania audio](https://youtu.be/qNf9nzvnd1k) z zakresem częstotliwości 20-20 000 Hz.
@@ -17,9 +17,33 @@ przestały słyszeć odtwarzany dźwięk przy częstotliwości ~18 kHz.
 
 |       Kuba      	|                    	|   	|      Błażej     	|                          	|   	|      Piotr      	|                   	|   	|
 |:---------------:	|:------------------:	|---	|:---------------:	|--------------------------	|---	|:---------------:	|-------------------	|---	|
-| Stan początkowy 	| Dobry              	|   	| Stan początkowy 	| Bardzo dobre             	|   	| Stan początkowy 	|                   	|   	|
+| Stan początkowy 	| Dobry              	|   	| Stan początkowy 	| Bardzo dobre             	|   	| Stan początkowy 	| Bardzo dobre       	|   	|
 | 80<             	| Poczucie niepokoju 	|   	| 120~            	| Lekki dyskomfort         	|   	| N/A             	| N/A               	|   	|
 | 500<            	| Lekki ból uszu     	|   	| 2500~           	| Delikatne ukłucie w uchu 	|   	| N/A             	| N/A               	|   	|
 | 18 000<         	| Próg słyszalności  	|   	| 18 000<         	| Próg słyszalności        	|   	| 18 000<         	| Próg słyszalności 	|   	|
 
 ------
+### Wniosek
+Nasza hipoteza została potwierdzona. Wśród osób badanych zostały zaobserwowane różne wyniki.
+
+## Podsumowanie
+Wyjaśnienie naszego badania jest na pozór proste, gdyż wszystko jest po części związane ze starzeniem się naszego organizmu. W ślimaku ucha wewnętrznego znajdują się komórki słuchowe i płyn odpowiedzialne za odbiór fal dźwiękowych, a biorąc pod uwagę nasze badanie - dźwięk o różnych częstotliwościach. Wraz z wiekiem, komórki słuchowe przestają działać poprawnie a hałas prowadzi do przyspieszenia tego procesu. Opierając się na szczegółowych badaniach przeprowadzanych przez doświadczonych naukowców, nastolatek potrafi usłyszeć dźwięk do ~18 kHz. To samo pokazało nasze badanie gdyż wszystkie osoby badane były w wieku nastoletnim. Osoby starsze natomiast słyszą przeważnie do częstotliwości ~12 kHz. Ból ucha wychwycony w trakcie badania może być oznaką właśnie uszkodzenia komórek słuchowych, dlatego jest zalecane przerwanie badania u tej osoby. Właśnie dlatego odbiór fal dźwiękowych o wysokiej częstotliwości niesie za sobą poważne konsekwencje. Udokumentowano, że ekspozycja na dźwięki o wysokiej częstotliwości prowadzi do nieodwracalnego uszkodzenia właśnie komórek słuchowych - nabywamy tzw. ubytek słuchu wysokoczęstotliwościowy. Pozostaje jednak kwestia samopoczucia osoby badanej w trakcie i po badaniu. Wyjaśnieniem tego może być pamięć słuchowa. Niektórym pamiętliwym wydarzeniom może towarzyszyć specyficzny dźwięk, który nieświadomie został utrwalony w naszej pamięci. Usłyszenie dźwięku o podanej częstotliwości może przywrócić nie tylko samo wspomnienie jak i uczucie powiązane z nim. Stąd też rozbieżność w badaniach pod tym względem. U jednej osoby zaobserwowano niepokój, u drugiej dyskomfort, a u trzeciej nie zaobserwowano żadnych zmian w samopoczuciu.
+
+# Reakcja organizmu na informacje odbierane przez błędnik.
+
+## Problem badawczy: 
+
+### Hipoteza: 
+
+Opis doświadczenia: Na początku każdej osobie badanej jest sprawdzana równowaga. Następnie każda osoba kolejno wsiada na karuzelę i rozkręca się na niej. Po osiągnięciu wcześniej ustalonej szybkości obrotów, badana osoba kręci się przez 10 sekund. Po upływie tego czasu, badana osoba musi wyhamować i natychmiast wyjść z karuzeli i stanąć prosto.
+
+### Próba kontrolna
+sprawdzenie stanu osoby badanej
+
+### Próba badawcza
+zakręcenie się na karuzeli
+
+
+
+
+
