@@ -66,7 +66,4 @@ Hipoteza została potwierdzona. Po zamknięciu oczu badane osoby odczuwały mnie
 ## Podsumowanie
 Z doświadczenia wynikło że narząd wzroku i równowagi ściśle ze sobą kooperują. Podczas kręcenia się z otawrtymi oczami wszystkie osoby badane odczuły podobne zawroty głowy. Po zamknięciu oczu wykluczyliśmy jeden bodźiec. To sprawiło, że móżdżek dostawał informacje tylko z błędnika, a bez potwierdzenia sytuacji od narządu wzroku - nie był w stanie prawidłowo odpowiedzieć na zachodzące kręcenie się.
 
-> Istnieją 2 materiały video z próby badawczej jednakże nie jesteśmy w stanie wyciągnąć szczegółowych wniosków gdyż liczba osób badanych była za mała
-
-
 
