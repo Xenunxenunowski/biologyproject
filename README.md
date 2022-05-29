@@ -32,19 +32,18 @@ Wyjaśnienie naszego badania jest na pozór proste, gdyż wszystko jest po czę�
 
 # Reakcja organizmu na informacje odbierane przez błędnik.
 
-## Problem badawczy: 
+## Problem badawczy: Jak narząd równowagi i wzroku kooperują ze sobą 
 
-### Hipoteza: 
+### Hipoteza: Wykluczenie lub i też zmniejszenie wpływu danego bodźca zmniejsza odczuwalne zawroty głowy
 
-Opis doświadczenia: Na początku każdej osobie badanej jest sprawdzana równowaga. Następnie każda osoba kolejno wsiada na karuzelę i rozkręca się na niej. Po osiągnięciu wcześniej ustalonej szybkości obrotów, badana osoba kręci się przez 10 sekund. Po upływie tego czasu, badana osoba musi wyhamować i natychmiast wyjść z karuzeli i stanąć prosto.
+### Opis doświadczenia:
+Na początku każdej osobie badanej jest sprawdzana równowaga. Następnie każda osoba kolejno wsiada na karuzelę i rozkręca się na niej. Po osiągnięciu wcześniej ustalonej szybkości obrotów, badana osoba kręci się przez 10 sekund.W trakcie kręcenia się badana osoba po 5 sekundach zamyka oczy na 5 sekund a po upływie tego czasu, badana osoba musi wyhamować i natychmiast wyjść z karuzeli i stanąć prosto.
 
-### Próba kontrolna
-sprawdzenie stanu osoby badanej
+### Próba kontrolna: sprawdzenie stanu osoby badanej
 
-### Próba badawcza
-zakręcenie się na karuzeli
+### Próba badawcza: zakręcenie się na karuzeli zgodnie z podanym opisem
 
-
+> Istnieją 2 materiały video z próby badawczej jednakże nie jesteśmy w stanie wyciągnąć szczegółowych wniosków gdyż liczba osób badanych była za mała
 
 
 
