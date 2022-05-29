@@ -28,6 +28,28 @@ Nasza hipoteza została potwierdzona. Wśród osób badanych zostały zaobserwow
 ## Podsumowanie
 Wyjaśnienie naszego badania jest na pozór proste, gdyż wszystko jest po części związane ze starzeniem się naszego organizmu. W ślimaku ucha wewnętrznego znajdują się komórki słuchowe i płyn odpowiedzialne za odbiór fal dźwiękowych, a biorąc pod uwagę nasze badanie - dźwięk o różnych częstotliwościach. Wraz z wiekiem, komórki słuchowe przestają działać poprawnie a hałas prowadzi do przyspieszenia tego procesu. Opierając się na szczegółowych badaniach przeprowadzanych przez doświadczonych naukowców, nastolatek potrafi usłyszeć dźwięk do ~18 kHz. To samo pokazało nasze badanie gdyż wszystkie osoby badane były w wieku nastoletnim. Osoby starsze natomiast słyszą przeważnie do częstotliwości ~12 kHz. Ból ucha wychwycony w trakcie badania może być oznaką właśnie uszkodzenia komórek słuchowych, dlatego jest zalecane przerwanie badania u tej osoby. Właśnie dlatego odbiór fal dźwiękowych o wysokiej częstotliwości niesie za sobą poważne konsekwencje. Udokumentowano, że ekspozycja na dźwięki o wysokiej częstotliwości prowadzi do nieodwracalnego uszkodzenia właśnie komórek słuchowych - nabywamy tzw. ubytek słuchu wysokoczęstotliwościowy. Pozostaje jednak kwestia samopoczucia osoby badanej w trakcie i po badaniu. Wyjaśnieniem tego może być pamięć słuchowa. Niektórym pamiętliwym wydarzeniom może towarzyszyć specyficzny dźwięk, który nieświadomie został utrwalony w naszej pamięci. Usłyszenie dźwięku o podanej częstotliwości może przywrócić nie tylko samo wspomnienie jak i uczucie powiązane z nim. Stąd też rozbieżność w badaniach pod tym względem. U jednej osoby zaobserwowano niepokój, u drugiej dyskomfort, a u trzeciej nie zaobserwowano żadnych zmian w samopoczuciu.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----
 
 # Reakcja organizmu na informacje odbierane przez błędnik.
