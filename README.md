@@ -22,12 +22,12 @@ przestały słyszeć odtwarzany dźwięk przy częstotliwości ~18 kHz.
 | 500<            	| Lekki ból uszu     	|   	| 2500~           	| Delikatne ukłucie w uchu 	|   	| N/A             	| N/A               	|
 | 18 000<         	| Próg słyszalności  	|   	| 18 000<         	| Próg słyszalności        	|   	| 18 000<         	| Próg słyszalności 	|
 
-|      Kornelia     |                      |   	 |      Emilka     	 |                          	 |   	 |       Olga      	 |                   	|
-|:---------------:  |:------------------:  |---	 |:---------------:	 |--------------------------	 |---	 |:---------------:	 |-------------------	|
-| Stan początkowy 	| Bardzo dobry         |   	 | Stan początkowy 	 | Bardzo dobre             	 |   	 | Stan początkowy 	 | Bardzo dobre       	|
-| N/A             	| N/A                	 |   	 | 10 000~           | Lekki ból głowy i uszu   	 |   	 | N/A             	 | N/A               	|
-| N/A             	| N/A               	 |   	 | N/A             	 | Delikatne ukłucie w uchu 	 |   	 | N/A             	 | N/A               	|
-| 14 500<         	| Próg słyszalności  	 |   	 | 15 500<         	 | Próg słyszalności        	 |   	 | 18 000<         	 | Próg słyszalności 	|
+|     Kornelia    	|                   	|   	|      Emilka     	|                        	|   	|       Olga      	|                   	|
+|:---------------:	|:-----------------:	|:-:	|:---------------:	|:----------------------:	|:-:	|:---------------:	|:-----------------:	|
+| Stan początkowy 	| Bardzo dobry      	|   	| Stan początkowy 	| Bardzo dobry           	|   	| Stan początkowy 	| Bardzo dobry      	|
+| N/A             	| N/A               	|   	| 10 000~         	| Lekki ból głowy i uszu 	|   	| N/A             	| N/A               	|
+| N/A             	| N/A               	|   	| N/A             	| N/A                    	|   	| N/A             	| N/A               	|
+| 14 500<         	| Próg słyszalności 	|   	| 15 500<         	| Próg słyszalności      	|   	| 11 000<         	| Próg słyszalności 	|
 
 Olga:
 Samopoczucie bardzo dobre, próg słyszalności zaraz dostaniesz
@@ -36,28 +36,6 @@ Nasza hipoteza została potwierdzona. Wśród osób badanych zostały zaobserwow
 
 ## Podsumowanie
 Wyjaśnienie naszego badania jest na pozór proste, gdyż wszystko jest po części związane ze starzeniem się naszego organizmu. W ślimaku ucha wewnętrznego znajdują się komórki słuchowe i płyn odpowiedzialne za odbiór fal dźwiękowych, a biorąc pod uwagę nasze badanie - dźwięk o różnych częstotliwościach. Wraz z wiekiem, komórki słuchowe przestają działać poprawnie a hałas prowadzi do przyspieszenia tego procesu. Opierając się na szczegółowych badaniach przeprowadzanych przez doświadczonych naukowców, nastolatek potrafi usłyszeć dźwięk do ~18 kHz. To samo pokazało nasze badanie gdyż wszystkie osoby badane były w wieku nastoletnim. Osoby starsze natomiast słyszą przeważnie do częstotliwości ~12 kHz. Ból ucha wychwycony w trakcie badania może być oznaką właśnie uszkodzenia komórek słuchowych, dlatego jest zalecane przerwanie badania u tej osoby. Właśnie dlatego odbiór fal dźwiękowych o wysokiej częstotliwości niesie za sobą poważne konsekwencje. Udokumentowano, że ekspozycja na dźwięki o wysokiej częstotliwości prowadzi do nieodwracalnego uszkodzenia właśnie komórek słuchowych - nabywamy tzw. ubytek słuchu wysokoczęstotliwościowy. Pozostaje jednak kwestia samopoczucia osoby badanej w trakcie i po badaniu. Wyjaśnieniem tego może być pamięć słuchowa. Niektórym pamiętliwym wydarzeniom może towarzyszyć specyficzny dźwięk, który nieświadomie został utrwalony w naszej pamięci. Usłyszenie dźwięku o podanej częstotliwości może przywrócić nie tylko samo wspomnienie jak i uczucie powiązane z nim. Stąd też rozbieżność w badaniach pod tym względem. U jednej osoby zaobserwowano niepokój, u drugiej dyskomfort, a u trzeciej nie zaobserwowano żadnych zmian w samopoczuciu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 -----
 
