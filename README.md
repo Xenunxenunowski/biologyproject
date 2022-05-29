@@ -22,12 +22,12 @@ przestały słyszeć odtwarzany dźwięk przy częstotliwości ~18 kHz.
 | 500<            	| Lekki ból uszu     	|   	| 2500~           	| Delikatne ukłucie w uchu 	|   	| N/A             	| N/A               	|
 | 18 000<         	| Próg słyszalności  	|   	| 18 000<         	| Próg słyszalności        	|   	| 18 000<         	| Próg słyszalności 	|
 
-|      Kornelia     |                    	|   	|      Emilka     	|                          	|   	|       Olga      	|                   	|
-|:---------------:	|:------------------:	|---	|:---------------:	|--------------------------	|---	|:---------------:	|-------------------	|
-| Stan początkowy 	| Bardzo dobry        |   	| Stan początkowy 	| Bardzo dobre             	|   	| Stan początkowy 	| Bardzo dobre       	|
-| N/A             	| N/A                	|   	| 10 000~          	| Lekki ból głowy i uszu   	|   	| N/A             	| N/A               	|
-| N/A             	| N/A               	|   	| N/A             	| Delikatne ukłucie w uchu 	|   	| N/A             	| N/A               	|
-| 14 500<         	| Próg słyszalności  	|   	| 15 500<         	| Próg słyszalności        	|   	| 18 000<         	| Próg słyszalności 	|
+|      Kornelia     |                      |   	 |      Emilka     	 |                          	 |   	 |       Olga      	 |                   	|
+|:---------------:  |:------------------:  |---	 |:---------------:	 |--------------------------	 |---	 |:---------------:	 |-------------------	|
+| Stan początkowy 	| Bardzo dobry         |   	 | Stan początkowy 	 | Bardzo dobre             	 |   	 | Stan początkowy 	 | Bardzo dobre       	|
+| N/A             	| N/A                	 |   	 | 10 000~           | Lekki ból głowy i uszu   	 |   	 | N/A             	 | N/A               	|
+| N/A             	| N/A               	 |   	 | N/A             	 | Delikatne ukłucie w uchu 	 |   	 | N/A             	 | N/A               	|
+| 14 500<         	| Próg słyszalności  	 |   	 | 15 500<         	 | Próg słyszalności        	 |   	 | 18 000<         	 | Próg słyszalności 	|
 
 Olga:
 Samopoczucie bardzo dobre, próg słyszalności zaraz dostaniesz
